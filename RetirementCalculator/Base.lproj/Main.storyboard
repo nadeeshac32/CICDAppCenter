@@ -33,6 +33,7 @@
                             </textField>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter some values to calculate your retirement amount." lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lk7-CS-90I">
                                 <rect key="frame" x="10" y="307" width="374" height="82"/>
+                                <accessibility key="accessibilityConfiguration" identifier="resultLabel"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="82" id="UWE-3f-Zcb"/>
                                 </constraints>
